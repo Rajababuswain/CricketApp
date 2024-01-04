@@ -1,0 +1,21 @@
+﻿@page
+@model CricketApp.Pages.Terms.TermsAndServicePageModel
+@{
+    ViewData["Title"] = "Terms of Service";
+    Layout = "~/Pages/Shared/_Layout.cshtml"; // Assuming you have a shared layout
+}
+
+<div class="container mt-3">
+    <h1>@ViewData["Title"]</h1>
+
+    <div class="mb-3">
+        <p>
+            Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use.
+        </p>
+        <!-- Add your specific terms and conditions here -->
+    </div>
+
+    <div class="text-center">
+        <a asp-page="/Index" class="btn btn-primary">Back to Home</a>
+    </div>
+</div>

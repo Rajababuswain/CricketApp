@@ -1,0 +1,40 @@
+﻿@page
+@model CricketApp.Pages.RegisterationFolder.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<link rel="stylesheet" href="~/css/site.css" />
+
+<div class="register-container">
+    <h2>Register</h2>
+
+    <form id="registerForm" method="post">
+        <label for="username">Username:</label>
+        <input type="text" asp-for="Input.Username" required>
+
+        <label for="email">Email:</label>
+        <input type="email" asp-for="Input.Email" required>
+
+        <label for="password">Password:</label>
+        <input type="password" asp-for="Input.Password" required>
+
+        <label for="confirmPassword">Confirm Password:</label>
+        <input type="password" asp-for="Input.ConfirmPassword" required>
+
+        <div class="form-group">
+            <input type="checkbox" id="termsCheckbox" name="termsCheckbox" required>
+            <label for="termsCheckbox">I agree to the <a href="/TermsAndServicePage">Terms of Service</a> and <a href="/Privacy">Privacy Policy</a>.</label>
+        </div>
+
+        <button type="submit">Register</button>
+    </form>
+
+    <div class="error-message" id="registrationMessage">@Model.ErrorMessage</div>
+
+    <div class="login-link">
+        <a asp-page="/LoginFolder/Login">Already have an account? Login Here</a>
+    </div>
+</div>
+
+<script src="~/js/site.js"></script>

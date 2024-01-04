@@ -1,0 +1,73 @@
+﻿@page
+@model CricketApp.Pages.User.UserDashboardModel
+@{
+    ViewData["Title"] = "User Dashboard";
+}
+
+<!-- Import necessary CSS -->
+<link rel="stylesheet" href="~/css/userdashboard-style.css">
+
+<div class="container">
+    <header>
+        <h1>Welcome User!</h1>
+        <button onclick="logout()">Logout</button>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#profile">Profile</a></li>
+            <li><a href="#settings">Settings</a></li>
+            <li><a href="#statistics">Cricket Statistics</a></li>
+            <li><a href="#matches">Upcoming Matches</a></li>
+            <li><a href="#news">Latest Cricket News</a></li>
+            <li><a href="#players">Player Profiles</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="profile">
+            <h2>Profile</h2>
+            <p>This is the profile section. Add content related to user profiles here.</p>
+        </section>
+
+        <section id="settings">
+            <h2>Settings</h2>
+            <p>This is the settings section. Add content related to user settings here.</p>
+        </section>
+
+        <section id="statistics">
+            <h2>Cricket Statistics</h2>
+            <p>This is the cricket statistics section. Add content related to cricket statistics here.</p>
+        </section>
+
+        <section id="matches">
+            <h2>Upcoming Matches</h2>
+            <p>This is the upcoming matches section. Add content related to upcoming cricket matches here.</p>
+        </section>
+
+        <section id="news">
+            <h2>Latest Cricket News</h2>
+            <div id="latest-news">
+                <!-- Placeholder news content -->
+                <div class="news-item">
+                    <h3>Exciting Match Ahead!</h3>
+                    <p>Stay tuned for the thrilling match between Team A and Team B scheduled for next week.</p>
+                </div>
+                <div class="news-item">
+                    <h3>New Player Joins Team</h3>
+                    <p>Team C welcomes a talented player to their squad. Learn more about the new addition.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="players">
+            <h2>Player Profiles</h2>
+            <p>This is the player profiles section. Add content related to cricket player profiles here.</p>
+        </section>
+
+        <!-- Add more sections as needed -->
+
+    </main>
+
+    <script src="~/js/userdashboard-script.js"></script>
+</div>

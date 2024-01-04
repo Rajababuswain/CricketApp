@@ -1,0 +1,429 @@
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.AssemblyInfoInputs.cache
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.AssemblyInfo.cs
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.csproj.CoreCompileInputs.cache
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.RazorAssemblyInfo.cache
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.RazorAssemblyInfo.cs
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\bin\Debug\net6.0\appsettings.json
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.staticwebassets.runtime.json
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.exe
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.deps.json
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.runtimeconfig.json
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.dll
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.pdb
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.CricketApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.build.CricketApp.props
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CricketApp.props
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CricketApp.props
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\bundle\CricketApp.styles.css
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\projectbundle\CricketApp.bundle.scp.css
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.dll
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\refint\CricketApp.dll
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.pdb
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.genruntimeconfig.cache
+C:\Users\rajababus\source\repos\CricketApp\CricketApp\obj\Debug\net6.0\ref\CricketApp.dll
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\bin\Debug\net6.0\appsettings.json
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.staticwebassets.runtime.json
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.exe
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.deps.json
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.runtimeconfig.json
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.dll
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.pdb
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.AssemblyInfoInputs.cache
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.AssemblyInfo.cs
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.csproj.CoreCompileInputs.cache
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.RazorAssemblyInfo.cache
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.RazorAssemblyInfo.cs
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.CricketApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.build.CricketApp.props
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CricketApp.props
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CricketApp.props
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\bundle\CricketApp.styles.css
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\projectbundle\CricketApp.bundle.scp.css
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.dll
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\refint\CricketApp.dll
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.pdb
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.genruntimeconfig.cache
+C:\Users\pardeepy\source\repos\Practice123\FinalCricketApp\CricketApp\CricketApp\obj\Debug\net6.0\ref\CricketApp.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\appsettings.json
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.staticwebassets.runtime.json
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.exe
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.deps.json
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.runtimeconfig.json
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.pdb
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.csproj.AssemblyReference.cache
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.AssemblyInfoInputs.cache
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.AssemblyInfo.cs
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.csproj.CoreCompileInputs.cache
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.RazorAssemblyInfo.cache
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.RazorAssemblyInfo.cs
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.sourcelink.json
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.CricketApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.build.CricketApp.props
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CricketApp.props
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CricketApp.props
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\bundle\CricketApp.styles.css
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\projectbundle\CricketApp.bundle.scp.css
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.csproj.CopyComplete
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\refint\CricketApp.dll
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.pdb
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.genruntimeconfig.cache
+C:\Users\pardeepy\source\repos\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\ref\CricketApp.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.csproj.AssemblyReference.cache
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.AssemblyInfoInputs.cache
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.AssemblyInfo.cs
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.csproj.CoreCompileInputs.cache
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.RazorAssemblyInfo.cache
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.RazorAssemblyInfo.cs
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.sourcelink.json
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\refint\CricketApp.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.pdb
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\appsettings.json
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp\appsettings.Development.json
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp\appsettings.json
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp\obj\CricketApp.csproj.nuget.dgspec.json
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp\obj\project.assets.json
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp\Properties\launchSettings.json
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.staticwebassets.runtime.json
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.exe
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.deps.json
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.runtimeconfig.json
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.pdb
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.CricketApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.build.CricketApp.props
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CricketApp.props
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CricketApp.props
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\bundle\CricketApp.styles.css
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\projectbundle\CricketApp.bundle.scp.css
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.csproj.CopyComplete
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.genruntimeconfig.cache
+C:\Users\pardeepy\source\repos\CricketApp Final\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\ref\CricketApp.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\appsettings.json
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp\obj\CricketApp.csproj.nuget.dgspec.json
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp\obj\project.assets.json
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp\Properties\launchSettings.json
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\libman.json
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.staticwebassets.runtime.json
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.exe
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.deps.json
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.runtimeconfig.json
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.pdb
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Humanizer.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\MySql.Data.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\MySqlConnector.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Text.Json.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\ZstdSharp.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.csproj.AssemblyReference.cache
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.AssemblyInfoInputs.cache
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.AssemblyInfo.cs
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.csproj.CoreCompileInputs.cache
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.RazorAssemblyInfo.cache
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.RazorAssemblyInfo.cs
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.sourcelink.json
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.CricketApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.build.CricketApp.props
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CricketApp.props
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CricketApp.props
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\bundle\CricketApp.styles.css
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\projectbundle\CricketApp.bundle.scp.css
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.csproj.CopyComplete
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\refint\CricketApp.dll
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.pdb
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.genruntimeconfig.cache
+D:\Aspnet Projects\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\ref\CricketApp.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\refint\CricketApp.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.pdb
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\appsettings.Development.json
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\appsettings.json
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp\obj\CricketApp.csproj.nuget.dgspec.json
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp\obj\project.assets.json
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp\Properties\launchSettings.json
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\libman.json
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.staticwebassets.runtime.json
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.exe
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.deps.json
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.runtimeconfig.json
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\CricketApp.pdb
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Google.Protobuf.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Humanizer.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\MySql.Data.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\MySqlConnector.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Text.Json.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\ZstdSharp.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.csproj.AssemblyReference.cache
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.AssemblyInfoInputs.cache
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.AssemblyInfo.cs
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.csproj.CoreCompileInputs.cache
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.MvcApplicationPartsAssemblyInfo.cache
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.RazorAssemblyInfo.cache
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.RazorAssemblyInfo.cs
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.sourcelink.json
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.CricketApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.build.CricketApp.props
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CricketApp.props
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CricketApp.props
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\bundle\CricketApp.styles.css
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\scopedcss\projectbundle\CricketApp.bundle.scp.css
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.csproj.CopyComplete
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\CricketApp.genruntimeconfig.cache
+D:\CricketApp\CricketApplication\CricketApplication\CricketApp\CricketApp\obj\Debug\net6.0\ref\CricketApp.dll

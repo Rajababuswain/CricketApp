@@ -1,0 +1,88 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Cricket Homepage";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/styles.css" />
+
+    <style>
+        /* Global Styles */
+        body {
+            background-image: url('/Images/Cricket3.jpg'); /* Replace with the actual image path */
+            background-size: cover; /* Adjust as needed */
+            background-position: center;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        /* Homepage Content Styles */
+        .homepage-container {
+            text-align: center;
+            width: 80%;
+            margin: 0 auto; /* Horizontally center the container */
+            background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+            padding: 20px;
+            color: white;
+        }
+
+            .homepage-container h1 {
+                font-size: 32px;
+                margin-bottom: 20px;
+            }
+
+            .homepage-container p {
+                font-size: 16px;
+                margin-bottom: 10px;
+            }
+
+            .homepage-container a {
+                color: white;
+                text-decoration: none;
+                border-bottom: 1px solid white;
+            }
+
+        /* Login and Registration Links */
+        .login-registration-links {
+            text-align: center;
+            margin-top: 30px; /* Add some spacing after the cricket content */
+        }
+
+            .login-registration-links a {
+                margin-left: 10px; /* Add spacing between links */
+            }
+
+        /* Cricket-related content sections */
+        .cricket-content {
+            margin-top: 30px; /* Add some spacing after the introduction */
+        }
+
+            .cricket-content h2 {
+                font-size: 24px;
+                margin-bottom: 10px;
+            }
+    </style>
+</head>
+
+<div class="homepage-container">
+    <h1>Welcome to the Cricket Application!</h1>
+
+    <p>This is the Cricket Application, your one-stop destination for everything cricket. Immerse yourself in the world of cricket with real-time news, match scores, player statistics, and upcoming fixtures. Whether you're a seasoned fan or a curious newcomer, the Cricket Application has something for everyone.</p>
+
+    <div class="cricket-content">
+        <h2>Latest Cricket News</h2> <h2>Upcoming Matches</h2> <h2>Player Statistics</h2>
+    </div>
+
+    
+
+
+    <div class="login-registration-links">
+        <a href="/LoginFolder/Login">Login</a> | <a href="/RegisterationFolder/Registeration">Register</a>
+    </div>
+</div>

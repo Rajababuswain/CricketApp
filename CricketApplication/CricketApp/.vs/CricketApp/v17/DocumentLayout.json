@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\pages\\loginfolder\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\pages\\loginfolder\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\pages\\loginfolder\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\pages\\loginfolder\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\pages\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\pages\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\pages\\admin\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\pages\\admin\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\pages\\forgotpassword\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\pages\\forgotpassword\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\pages\\registerationfolder\\registeration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\pages\\registerationfolder\\registeration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\pages\\registerationfolder\\registeration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\pages\\registerationfolder\\registeration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\pages\\user\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\pages\\user\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\pages\\shared\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\pages\\shared\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4DEAD3-A0EF-4D35-8DD9-45D89B999714}|Models{7B4DEAD3-A0EF-4D35-8DD9-45D89B999714}|D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\UserRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4DEAD3-A0EF-4D35-8DD9-45D89B999714}|Models{7B4DEAD3-A0EF-4D35-8DD9-45D89B999714}|solutionrelative:UserRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\pages\\termsandservicepage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\pages\\termsandservicepage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\pages\\termsandservicepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\pages\\termsandservicepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|d:\\cricketapp\\cricketapplication\\cricketapplication\\cricketapp\\cricketapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05A327F4-9F7B-45EF-813B-84F99C1E3146}|CricketApp\\CricketApp.csproj|solutionrelative:cricketapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\LoginFolder\\Login.cshtml",
+              "RelativeDocumentMoniker": "CricketApp\\Pages\\LoginFolder\\Login.cshtml",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\LoginFolder\\Login.cshtml",
+              "RelativeToolTip": "CricketApp\\Pages\\LoginFolder\\Login.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-04T10:28:15.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registeration.cshtml",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\RegisterationFolder\\Registeration.cshtml",
+              "RelativeDocumentMoniker": "CricketApp\\Pages\\RegisterationFolder\\Registeration.cshtml",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\RegisterationFolder\\Registeration.cshtml",
+              "RelativeToolTip": "CricketApp\\Pages\\RegisterationFolder\\Registeration.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-04T10:28:15.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\LoginFolder\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "CricketApp\\Pages\\LoginFolder\\Login.cshtml.cs",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\LoginFolder\\Login.cshtml.cs",
+              "RelativeToolTip": "CricketApp\\Pages\\LoginFolder\\Login.cshtml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-04T10:28:15.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registeration.cshtml.cs",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\RegisterationFolder\\Registeration.cshtml.cs",
+              "RelativeDocumentMoniker": "CricketApp\\Pages\\RegisterationFolder\\Registeration.cshtml.cs",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\RegisterationFolder\\Registeration.cshtml.cs",
+              "RelativeToolTip": "CricketApp\\Pages\\RegisterationFolder\\Registeration.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-04T10:28:15.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CricketApp\\Pages\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CricketApp\\Pages\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-04T10:28:15.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "CricketApp\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "CricketApp\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwKIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-01-04T10:28:15.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CricketApp\\appsettings.Development.json",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\appsettings.Development.json",
+              "RelativeToolTip": "CricketApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-04T10:28:15.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\ForgotPassword\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "CricketApp\\Pages\\ForgotPassword\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\ForgotPassword\\ForgotPassword.cshtml",
+              "RelativeToolTip": "CricketApp\\Pages\\ForgotPassword\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-04T10:28:15.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CricketApp\\appsettings.json",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\appsettings.json",
+              "RelativeToolTip": "CricketApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-04T10:28:15.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\Admin\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "CricketApp\\Pages\\Admin\\AdminDashboard.cshtml",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\Admin\\AdminDashboard.cshtml",
+              "RelativeToolTip": "CricketApp\\Pages\\Admin\\AdminDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-04T10:28:15.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDashboard.cshtml",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\User\\UserDashboard.cshtml",
+              "RelativeDocumentMoniker": "CricketApp\\Pages\\User\\UserDashboard.cshtml",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\User\\UserDashboard.cshtml",
+              "RelativeToolTip": "CricketApp\\Pages\\User\\UserDashboard.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwD4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-04T10:28:15.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "CricketApp\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\Error.cshtml",
+              "RelativeToolTip": "CricketApp\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-04T10:28:15.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Program.cs",
+              "RelativeDocumentMoniker": "CricketApp\\Program.cs",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Program.cs",
+              "RelativeToolTip": "CricketApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-04T10:28:15.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CricketApp\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CricketApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-01-04T10:28:15.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CricketApp\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CricketApp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-04T10:28:15.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\libman.json",
+              "RelativeDocumentMoniker": "CricketApp\\libman.json",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\libman.json",
+              "RelativeToolTip": "CricketApp\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-04T10:28:15.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\Shared\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CricketApp\\Pages\\Shared\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\Shared\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CricketApp\\Pages\\Shared\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-04T10:28:15.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\UserRole.cs",
+              "RelativeDocumentMoniker": "UserRole.cs",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\UserRole.cs",
+              "RelativeToolTip": "UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-04T10:28:15.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TermsAndServicePage.cshtml",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\TermsAndServicePage.cshtml",
+              "RelativeDocumentMoniker": "CricketApp\\Pages\\TermsAndServicePage.cshtml",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\TermsAndServicePage.cshtml",
+              "RelativeToolTip": "CricketApp\\Pages\\TermsAndServicePage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-04T10:28:15.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TermsAndServicePage.cshtml.cs",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\TermsAndServicePage.cshtml.cs",
+              "RelativeDocumentMoniker": "CricketApp\\Pages\\TermsAndServicePage.cshtml.cs",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\TermsAndServicePage.cshtml.cs",
+              "RelativeToolTip": "CricketApp\\Pages\\TermsAndServicePage.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-04T10:28:15.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CricketApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\CricketApp\\CricketApplication\\CricketApplication\\CricketApp\\CricketApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "CricketApp\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-04T10:28:15.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

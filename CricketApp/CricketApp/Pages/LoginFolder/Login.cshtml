@@ -1,0 +1,93 @@
+﻿@page
+@model LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<link rel="stylesheet" href="~/css/site.css" />
+
+<div class="login-container">
+    <h2>Login</h2>
+
+    <form id="loginForm" method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+
+        <div>
+            <input type="checkbox" id="rememberMe" name="rememberMe">
+            <label for="rememberMe">Remember Me</label>
+        </div>
+
+        <button type="submit" onclick="validateLogin()">Login</button>
+    </form>
+
+    <div class="error-message" id="loginMessage"></div>
+
+    <div class="forgot-password-link">
+        <p>Forgot password? <a href="/ForgotPassword/ForgotPassword">Click here!</a></p>
+
+    </div>
+
+    <div class="register-link">
+        <p>Create a new account? <a asp-page="/RegisterationFolder/Registeration">Register here!</a></p>
+    </div>
+
+    <div class="social-login">
+        <p>Or login with:</p>
+        <div class="g-signin2" data-onsuccess="onGoogleSignIn"></div>
+    </div>
+
+    <div class="terms-link">
+        <a href="/TermsAndServicePage">Terms of Service</a> | <a href="/Privacy">Privacy Policy</a>
+
+    </div>
+
+  
+</div>
+
+<script src="~/js/site.js"></script>
+
+<script>
+    function validateLogin() {
+        // Fetch username and password from form
+        const username = document.getElementById('username').value;
+        const password = document.getElementById('password').value;
+
+        // Send login request to server and handle the response
+        fetch('/Login/ValidateCredentials', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                username: username,
+                password: password
+            })
+        })
+            .then(response => response.json())
+            .then(data => {
+                if (data.isSuccess) {
+                    const role = data.userRole;
+
+                    if (role === 'Admin') {
+                        window.location.href = '/Admin/Index';
+                    } else if (role === 'User') {
+                        window.location.href = '/User/Index';
+                    } else {
+                        // Handle invalid role
+                        showMessage('Invalid user role');
+                    }
+                } else {
+                    // Handle invalid credentials or errors
+                    showMessage(data.errorMessage || 'Invalid credentials. Please try again.');
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                showMessage('An error occurred. Please try again.');
+            });
+    }
+</script>
